@@ -1,0 +1,7 @@
+com\messageboard\message\MessageServlet.class
+com\messageboard\welcome\WelcomeServlet.class
+com\messageboard\topic\add\TopicService.class
+com\messageboard\topic\add\AddTopicServlet.class
+com\messageboard\topic\add\Topic.class
+com\messageboard\topic\add\DeleteTopicServlet.class
+com\messageboard\message\MessageService.class
